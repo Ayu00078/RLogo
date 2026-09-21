@@ -1,0 +1,6 @@
+# ESP-IDF generated build output
+build/
+
+# Local configuration backups
+sdkconfig.old
+

@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"name": "Armour（当前工程）",
+			"path": "."
+		},
+		{
+			"name": "Master（代码目录）",
+			"path": "../RLogo_Master"
+		},
+		{
+			"name": "Motor（代码目录）",
+			"path": "../RLogo_Motor"
+		},
+		{
+			"name": "Controller",
+			"path": "../RLogo_Controller"
+		},
+		{
+			"path": "../components"
+		}
+	],
+	"settings": {
+		"cmake.autoSelectActiveFolder": false,
+		"cmake.options.advanced": {
+			"build": {
+				"statusBarVisibility": "inherit",
+				"inheritDefault": "hidden"
+			},
+			"launch": {
+				"statusBarVisibility": "inherit",
+				"inheritDefault": "hidden"
+			},
+			"debug": {
+				"statusBarVisibility": "inherit",
+				"inheritDefault": "hidden"
+			}
+		}
+	}
+}

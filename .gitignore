@@ -1,0 +1,8 @@
+# ESP-IDF generated build output
+**/build/
+
+# Local ESP-IDF configuration backups
+**/sdkconfig.old
+
+# Local archive; GitHub rejects files larger than 100 MB
+RLogo.rar
